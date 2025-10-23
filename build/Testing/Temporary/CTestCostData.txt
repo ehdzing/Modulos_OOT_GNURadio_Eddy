@@ -1,3 +1,0 @@
-test_howto 1 0.0273582
-qa_square_ff 1 0.285918
----

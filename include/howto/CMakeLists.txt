@@ -22,5 +22,7 @@
 ########################################################################
 install(FILES
     api.h
-    square_ff.h DESTINATION include/howto
+    square_ff.h
+    gain_ff.h
+    moving_avg_ff.h DESTINATION include/howto
 )
